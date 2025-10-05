@@ -4,7 +4,7 @@
 
 
 
-````markdown
+
 # 🚀 FastAPI Cheat Sheet
 
 A **comprehensive FastAPI Cheat Sheet** covering setup, routing, request/response models, validation, security, middleware, database integration, testing, and more.  
