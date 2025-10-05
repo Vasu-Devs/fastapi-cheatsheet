@@ -287,10 +287,4 @@ You are free to use, share, and modify with attribution.
 👨‍💻 Author: [Vasudev Siddh](https://github.com/yourusername)
 ⭐ If this helped you, give it a star on GitHub!
 
-```
-
----
-
-
-```
 
